@@ -21,6 +21,8 @@ LangChain comes with a number of built-in chains and agents that are compatible 
 •	Building custom dashboards based on insights a user wants to analyze,
 
 ![Alt text](images/sql_agent.png)
+
+*Chinook Database*
 ![Alt text](images/Chinook_db.png)
 
 
