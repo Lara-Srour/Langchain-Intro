@@ -1,0 +1,8 @@
+!pip install langchain
+!pip install transformers
+!pip install torch
+!pip install einops
+!pip install accelerate
+!pip install sqlalchemy
+!pip install langchain-community
+!pip install -U langchain-huggingface
