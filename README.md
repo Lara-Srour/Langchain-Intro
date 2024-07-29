@@ -20,4 +20,7 @@ LangChain comes with a number of built-in chains and agents that are compatible 
 •	Creating chatbots that can answer questions based on database data,
 •	Building custom dashboards based on insights a user wants to analyze,
 
+![Alt text](images/sql_agent.png)
+
+
 
